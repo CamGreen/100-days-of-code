@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log for Cameron Green
 
 ### Day 1: 15 January 2020
 
