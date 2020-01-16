@@ -20,12 +20,10 @@ Later I worked yet again on the OSM application I worked on yesterday. Managed t
 The error I am getting is a `Mixed Content: The page was loaded over HTTPS, but requested an insecure XMLHttpRequest endpoint. This request has been blocked; the content must be served over HTTPS`. I sort of understand why I am getting the error I got. My server is HTTPS and the code I used to call my layers is `http://camcode.xzy.......`. When I changed the code to `https://camcode.xzy.......` I got another error which didn't understand. The error was `Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR`. Another twist to the story is since my server is now HTTPS none of the layers in my GeoServer are displaying under Layer Preview. No idea how to fix any of this.  
 
 Mixed Content Error:
-![HTTPS_Error]
-(https://github.com/CamGreen/100-days-of-code/blob/master/images/HTTPS_Error.png)
+![HTTPS_Error](https://github.com/CamGreen/100-days-of-code/blob/master/images/HTTPS_Error.png)
 
 SSL Protocol Error:
-![SSL_Error]
-(https://github.com/CamGreen/100-days-of-code/blob/master/images/SSL_Error.png)
+![SSL_Error](https://github.com/CamGreen/100-days-of-code/blob/master/images/SSL_Error.png)
 
 **Thoughts:** A little disappointed with all of this but at the same timw, I am okay with it because I am learning. Hoping to find some GeoServer experts that can help me. If you are reading this and know what the issue is or have any suggestions/comments, please let me know. Really would like to work this out. 
 
