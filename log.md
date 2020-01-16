@@ -11,3 +11,10 @@ The first thing I tried to fix was the spatial layers that were no longer being 
 **Useful Link(s):** OpenLayers - Basic project setup using NPM and Parcel: https://openlayers.org/en/latest/doc/tutorials/bundle.html 
 
 **Link(s) to work:** Coming soon. 
+
+### Day 2: 16 January 2020
+**Today's Progress:** The first thing I did today was finally get round to encrypting my server. Have been putting that off for some reason but fianlly did that and it was easy enough. 
+
+Later I worked yet again on the OSM application I worked on yesterday. Managed to fix the net::ERR_NAME_NOT_RESOLVED error and managed to get into my domain registrar account. Fixed the error of the spatial layers not displaying as they are displayed in development. The problem now comes in where I package the code for production and load it onto my server. 
+
+I sort of understand why I am getting the error I got. 
