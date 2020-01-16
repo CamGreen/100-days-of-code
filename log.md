@@ -8,6 +8,6 @@ The first thing I tried to fix was the spatial layers that were no longer being 
 
 **Thoughts:** A little annoyed about this, took me longer than it should have to figure it out but now I know for next time in case I get the same error one day in the future. Hopefully will get to fixing this issue in the next 100 days. Feel I reconnected with OpenLayers again today which is a big plus for an aspiring GIS Developer. 
 
-**Useful Link(s):** OpenLayers - Basic project setup using NPM and Parcel. 
+**Useful Link(s):** OpenLayers - Basic project setup using NPM and Parcel: https://openlayers.org/en/latest/doc/tutorials/bundle.html 
 
 **Link(s) to work:** Coming soon. 
