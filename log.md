@@ -32,3 +32,17 @@ SSL Protocol Error:
 **Link(s) to work:** https://camcode.xyz/osm_visualise/
 
 **Side Note:** Learning how to write in Markup more and more each day. 
+
+### Day 3: 20 January 2020
+
+**Today's Progress:** Took the weekend off to regroup myself. Started again fresh today. 
+
+Decided I would start from the basics and relearn GitHub. I did a course on it a while ago but couldn't remember a thing so I needed to do it again to be able to use it again properly. Did a simple FreeCodeCamp.org course that was divided into three sections. 
+
+In section 1, I covered creating a repo, connecting it to my VS Code, cloned my repo, edited it and pushed it to my repo. In section 2, I covered branching and then in section 3 I covered creating and managing pull requests. 
+
+Pushed this change in the log file based on everything I just learnt. 
+
+**Thoughts:** Happy with myself about this. Something that is really imporant in coding and such a basic. Mastered it and now working towards bigger things. This video explained it very well and was easy to follow. 
+
+**Useful Link(s):** YouTube Video from FreeCodeCamp.org on GitHub - https://www.youtube.com/watch?v=x0EYpi38Yp4&feature=youtu.be
