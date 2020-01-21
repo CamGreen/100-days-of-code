@@ -46,3 +46,9 @@ Pushed this change in the log file based on everything I just learnt.
 **Thoughts:** Happy with myself about this. Something that is really imporant in coding and such a basic. Mastered it and now working towards bigger things. This video explained it very well and was easy to follow. 
 
 **Useful Link(s):** YouTube Video from FreeCodeCamp.org on GitHub - https://www.youtube.com/watch?v=x0EYpi38Yp4&feature=youtu.be
+
+### Day 4: 21 January 2020
+
+**Today's Progress:** Today I wanted to start with the basics of Python 3 as I don't actually know much python. I am doing a course called `Complete Python Bootcamp Go from zero to hero in Python 3`. So far it has been easy to follow which has been good for me. Covered topics such as Python data types, Numbers, Variable Assignments, Strings, Indexing and Slicing with string and String properties and methods. Tomorrow I plan to finish the first section off. 
+
+**Thoughts:** Happy that I am actually learning python as so many job descriptions say that knowing Python is either beneficial or mandatory. I did a Python course a while ago and as I was working here, it was slowly coming back to me so that is at least a win. 
