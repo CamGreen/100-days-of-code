@@ -52,3 +52,5 @@ Pushed this change in the log file based on everything I just learnt.
 **Today's Progress:** Today I wanted to start with the basics of Python 3 as I don't actually know much python. I am doing a course called `Complete Python Bootcamp Go from zero to hero in Python 3`. So far it has been easy to follow which has been good for me. Covered topics such as Python data types, Numbers, Variable Assignments, Strings, Indexing and Slicing with string and String properties and methods. Tomorrow I plan to finish the first section off. 
 
 **Thoughts:** Happy that I am actually learning python as so many job descriptions say that knowing Python is either beneficial or mandatory. I did a Python course a while ago and as I was working here, it was slowly coming back to me so that is at least a win. 
+
+### Day 5: 12 February 2020
