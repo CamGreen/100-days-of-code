@@ -54,3 +54,9 @@ Pushed this change in the log file based on everything I just learnt.
 **Thoughts:** Happy that I am actually learning python as so many job descriptions say that knowing Python is either beneficial or mandatory. I did a Python course a while ago and as I was working here, it was slowly coming back to me so that is at least a win. 
 
 ### Day 5: 12 February 2020
+
+**Today's Progress:** Today I decided to learn GitKraken. Such a cool tool!! As a student, I got access to all the features of GitKraken for free through GitHub education. So basically you clone your repo, make your changes, push and then commit thhe changes. With GitKraken you can see the work flow, who made what comment, who contributed code and from which branch someone worked on. Found this really cool after learning the proper ins and outs of GitHub a while ago.
+
+**Thoughts:** Super useful tool when collaborating on projects when many people. Nice to keep track of changes and who does what. Can't wait to start using this properly. Going to be teaching this to students on Friday the 14th of February 2020. 
+
+**Useful Link(s):** https://www.gitkraken.com/git-client
