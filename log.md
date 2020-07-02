@@ -60,3 +60,43 @@ Pushed this change in the log file based on everything I just learnt.
 **Thoughts:** Super useful tool when collaborating on projects when many people. Nice to keep track of changes and who does what. Can't wait to start using this properly. Going to be teaching this to students on Friday the 14th of February 2020. 
 
 **Useful Link(s):** https://www.gitkraken.com/git-client
+
+### Day 6:
+
+**Today's Progress:** For Day 6, myself and two other people I work with decided to teach the basics of Git and GitHub to the Students at the University of Pretoria. We covered Git, what it is and why it is important and GitHub. We also taught them GitKraken so they can manage their repos more effectively.  
+
+**Useful Link(s):** https://www.gitkraken.com/git-client
+
+### Day 7:
+
+**Today's Progress:** I was an mentor and administrator of the Open Source foundation called OSGeo for the recent Google Code-in competition for 2019/2020. The students completed over 700 tasks which they submitted and I needed to download. Using a GCI Quotient tool I cloned and the GCI OSGeo API, I spent about an hour configuring the tool and downloading the tasks. 
+
+**Useful Link(s):** https://github.com/CamGreen/gciquotient
+
+### Day 8:
+
+**Today's Progress:** I have wanted to learn oython for a while now so I started to play around with python and teach myself some of the advanced features of python as well as the basics. As it is currently the COVID-19 pandemic, I downloaded some data from an API and saved it as a .json file to my computer using python. This took a while as I had to find a reliable API for South African statistics. Once found, I adpated some code I found on Stackoverflow and it worked. Feels cool to just click run and get the latest statistics. 
+
+### Day 9:
+
+**Today's Progress:** Decided now that I want to learn python, I started watching videos on the basics of python. Really enjoyed them and learnt the basics. On this day I only learnt about Python data structures. Only had an hour for this so only managed that. Later I also learnt to connect a PostGIS database to my PC and populate it using python.
+
+### Day 10:
+
+**Today's Progress:** Carrying on watching the videos. I learnt about python operators and python statements. Covered both these topics in an hour and called it for the day. Bought three Udemy Python courses to learn in a structured manner.
+
+### Day 11:
+
+**Today's Progress:** The course I got from Udemy was Python fort Absolute Beginners. A three hour course on the basic fundamentals of python. Did the first hour of the course, really enjoy python!
+
+### Day 12:
+
+**Today's Progress:** Continued with the Udemy python course. Only did another hour due to time, but still enjoying python! Learning how practical and powerful it is!
+
+### Day 13:
+
+**Today's Progress:** Finished the last hour of the Udemy course and got my certificate! Glad I know the basics of python, made a lot of notes during this course so now it is time to write programs and practice what I learnt!
+
+### Day 14:
+
+**Today's Progress:** Spent an hour on Codewars today just practicing what I learnt. Was hard to get into it at first but I managed. Did this for about two hours. Feels good to be writing working code. 
